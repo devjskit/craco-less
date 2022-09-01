@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log
+.eslintrc
+.prettierrc
+.prettierignore
+.travis.yml
+jest.config.js
+yarn-error.log
+.vscode
+coverage
+src/*.test.js
+src/test-utils.js
+yarn.lock
+craco-less-*.tgz
+.github/
+.husky/
